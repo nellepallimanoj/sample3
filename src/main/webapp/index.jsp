@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>Welcome to Jenkins </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head><head>
+    <meta charset="UTF-8">
+    <title>Welcome to Jenkins </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
@@ -14,4 +18,5 @@
       <h2 class="text-center">Automatic deployment with jenkins1 </h2>
   </div>
 </body>
+
 </html>

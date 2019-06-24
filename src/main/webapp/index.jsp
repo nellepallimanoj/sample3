@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">automatic deployment with jenkins</h1>
+      <h1 class="text-center">Automatic deployment with jenkins</h1>
   </div>
 </body>
 </html>

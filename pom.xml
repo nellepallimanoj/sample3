@@ -34,7 +34,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>BitronicsPage1</finalName>
+		<finalName>BitronicsPage2</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

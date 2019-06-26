@@ -26,9 +26,9 @@ pipeline {
         stage ('Print'){
             steps {
                 script {
-                     def inptext = readFile file: "sample/src/main/webapp/application.properties" 
+                     def inptext = readFile file: "sample3/src/main/webapp/application.properties" 
                      inptext = inptext.replaceAll(~/root/, "#")      
-                     writeFile file: "sample/src/main/webapp/application.properties", text: inptext
+                     writeFile file: "sample3/src/main/webapp/application.properties", text: inptext
                 }
 
             }

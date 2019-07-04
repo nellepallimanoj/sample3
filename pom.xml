@@ -40,6 +40,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
+				<packaging>jar</packaging>
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
@@ -49,6 +50,7 @@
 				<!-- Java EE 6 doesn't require web.xml, Maven needs to catch up! -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
+				<packaging>jar</packaging>
 				<version>2.4</version>
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>

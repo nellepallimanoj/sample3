@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dev3l.hello_world</groupId>
 	<artifactId>mvn-hello-world</artifactId>
-	
+	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>mvn-hello-world Maven Webapp</name>
 	<url>http://maven.apache.org</url>
@@ -40,7 +40,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
-				<packaging>jar</packaging>
+				
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>

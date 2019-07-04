@@ -66,7 +66,7 @@
                             -->
                             <classpathPrefix>lib/</classpathPrefix>
                             <!-- Configures the main class of the application -->
-                            <mainClass>net.petrikainulainen.mavenpropertiesfiltering.HelloWorldApp</mainClass>
+                            <mainClass>com.dev3l.hello_world.test</mainClass>
                         </manifest>
 			</archive>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
